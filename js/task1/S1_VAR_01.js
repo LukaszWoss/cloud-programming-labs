@@ -6,6 +6,6 @@ const myBool = true;        // boolean
 
 console.table([
     { variable: "mytext",   value: myText,   type: typeof myText },
-    { variable: "myNumber", value: myNumber, type: typeof myNumber },
+    { variable: "mynumber", value: myNumber, type: typeof myNumber },
     { variable: "myBool",   value: myBool,   type: typeof myBool }
 ]);

@@ -5,7 +5,7 @@ let myNumber = 123;         // number
 const myBool = true;        // boolean
 
 console.table([
-    { variable: "mytext",   value: myText,   type: typeof myText },
+    { variable: "myttext",   value: myText,   type: typeof myText },
     { variable: "mynumber", value: myNumber, type: typeof myNumber },
     { variable: "myBool",   value: myBool,   type: typeof myBool }
 ]);
